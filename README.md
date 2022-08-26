@@ -1,6 +1,12 @@
 <div align="center">
 ### Hi there 👋 </br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-Hyun-Jung%2FSong-Hyun-Jung.git&count_bg=%23A1A1A1&title_bg=%23FF9EA6&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <div> 
+    <h3>:computer: 기술 스택 :computer:</h3>
+  
+  
+  </div>
+  
 </div>
 <!--
 **Song-Hyun-Jung/Song-Hyun-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
