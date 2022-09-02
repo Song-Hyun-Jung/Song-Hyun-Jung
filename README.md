@@ -1,6 +1,9 @@
+ 
 <div align="center">
  Hi I'm Song-Hyun-Jung 👋 </br>
-    ![Song-Hyun-Jung's github stats](https://github-readme-stats.vercel.app/api?username=Song-Hyun-Jung&show_icons=true)
+ </div>
+   
+<div align="center">    
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-Hyun-Jung%2FSong-Hyun-Jung.git&count_bg=%23A1A1A1&title_bg=%23FF9EA6&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <div> 
     <h3>:computer: Tech Stack :computer:</h3>
@@ -30,6 +33,11 @@
   </div>
   
 </div>
+<div>:fire: Github stats :fire:</div>
+
+![Song-Hyun-Jung's github stats](https://github-readme-stats.vercel.app/api?username=Song-Hyun-Jung&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-Hyun-Jung&hide=css,scss)](https://github.com/Song-Hyun-Jung/github-readme-stats)
+
 <!--
 **Song-Hyun-Jung/Song-Hyun-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
