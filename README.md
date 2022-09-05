@@ -1,6 +1,7 @@
- 
+
 <div align="center">
- Hi I'm Song-Hyun-Jung 👋 </br>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEF6F5,100:F5A9BC&height=300&section=header&text=HyunJung%20Song&fontSize=70" />
+ </br>
  </div>
    
 <div align="center">    
@@ -29,15 +30,19 @@
     <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> 
     </br>
     <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> 
-  
   </div>
-  
+  </br></br></br>
+  <div>
+   :mailbox_with_mail:Contacts:envelope:</br>
+    <a href="mailto:guswjd661207@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?    style=plastic&logo=Gmail&logoColor=white"/></a>
+  </div>
 </div>
+
 <div>:fire: Github stats :fire:</div>
 
 ![Song-Hyun-Jung's github stats](https://github-readme-stats.vercel.app/api?username=Song-Hyun-Jung&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-Hyun-Jung&hide=css,scss)](https://github.com/Song-Hyun-Jung/github-readme-stats)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEF6F5,100:F5A9BC&height=150&section=footer)
 <!--
 **Song-Hyun-Jung/Song-Hyun-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
