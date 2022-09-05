@@ -3,9 +3,16 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEF6F5,100:F5A9BC&height=300&section=header&text=HyunJung%20Song&fontSize=70" />
  </br>
  </div>
-   
+ <div align="right">
+   :mailbox_with_mail:Contacts:envelope:</br>
+    <a href="mailto:guswjd661207@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?    style=plastic&logo=Gmail&logoColor=white"/></a>
+     <a href="mailto:guswjd661207@naver.com" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?    style=plastic&logo=Naver&logoColor=white"/></a>
+     <a href="https://youtube.com/channel/UCFJ3iOIYPWWMN3zI7otu7bg" target="_blank"><img alt=Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?    style=plastic&logo=Youtube&logoColor=white"/></a>
+ </br></br>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-Hyun-Jung%2FSong-Hyun-Jung.git&count_bg=%23A1A1A1&title_bg=%23FF9EA6&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </div>  
 <div align="center">    
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-Hyun-Jung%2FSong-Hyun-Jung.git&count_bg=%23A1A1A1&title_bg=%23FF9EA6&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
   <div> 
     <h3>:computer: Tech Stack :computer:</h3>
     :pencil2: used at least once </br>
@@ -32,10 +39,7 @@
     <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> 
   </div>
   </br></br></br>
-  <div>
-   :mailbox_with_mail:Contacts:envelope:</br>
-    <a href="mailto:guswjd661207@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?    style=plastic&logo=Gmail&logoColor=white"/></a>
-  </div>
+  
 </div>
 
 <div>:fire: Github stats :fire:</div>
